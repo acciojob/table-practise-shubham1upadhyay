@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+caption{
+	font-weight:bolder;
+	font-family:family;
+	font-size:24px;;
+}
+th{
+	font-weight:bolder;
+	border:4px black solid;
+}
+td{
+	border:3px black solid;
+}
+table{
+	width:40%;
+	background-color:yellow;
+	border:5px black solid;
+}
